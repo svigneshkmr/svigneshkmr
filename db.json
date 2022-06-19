@@ -1,4 +1,4 @@
-[
+{"data":[
   {
     "CustomerID": "A1",
     "Email": "test1@mck.com",
@@ -370,3 +370,4 @@
     "Phone No": "9000549167"
   }
 ]
+}
