@@ -3,22 +3,22 @@
   {
     "CustomerID": "A71",
     "Email": "test71@mck.com",
-    "Phone No": "9000549162"
+    "PhoneNo": "9000549162"
   },
   {
     "CustomerID": "A72",
     "Email": "test72@mck.com",
-    "Phone No": "9000549163"
+    "PhoneNo": "9000549163"
   },
   {
     "CustomerID": "A73",
     "Email": "svigneshk@gmail.com",
-    "Phone No": "9000549164"
+    "PhoneNo": "9000549164"
   },
   {
     "CustomerID": "A76",
     "Email": "vsaravanan@ab.com",
-    "Phone No": "9000549167"
+    "PhoneNo": "9000549167"
   }
 ]
 }
